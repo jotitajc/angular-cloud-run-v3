@@ -2,7 +2,7 @@
 
 > **Módulo 5 — DevOps y Automatización del SDLC**  
 > **UTEC Posgrado | Arquitectura de Soluciones Multinube**  
-> **Docente:** Aldo Trucios
+> **Docente:** Aldo 
 
 ---
 
