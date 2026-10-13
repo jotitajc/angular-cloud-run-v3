@@ -1,4 +1,4 @@
-name: Deploy to Google Cloud Run - Workload Identity Federation (Multi-User)
+name: Deploy to Google Cloud Runs - Workload Identity Federation (Multi-User)
 
 on:
   push:
